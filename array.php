@@ -23,4 +23,4 @@ $contador = 0;
     $contador++; 
     }while($contador < $totaldeItensArray);
 
-
+ 
